@@ -2,6 +2,7 @@
 
 **1. Types of Software Testing ?**
 
+
   In this section, we are going to understand the various types of software testing, which can be used at the time 
   of the Software Development Life Cycle.
   As we know, software testing is a process of analyzing an application's functionality as per the customer prerequisite.
@@ -12,6 +13,7 @@
   ![types-of-software-testing](https://user-images.githubusercontent.com/35212651/219291961-f5019584-6bc9-4c59-8b14-b39ea3d73489.png)
 
   There are mainly two types of testing.
+  
   1.Manual Testing
   2.Automation Testing
   
@@ -23,6 +25,7 @@
   to verify the behavior of an application or software in contradiction of requirements specification.
  
   Classification of Manual Testing:
+  
     1.White Box Testing
     2.Black Box Testing
     3.Grey Box Testing
@@ -93,86 +96,96 @@
  
 **1. What is Manual and Automated Testing ?**
 
-*manual Testing*
 
-  Manual testing is the process in which QA analysts execute tests one-by-one in an individual manner. 
-  The purpose of manual testing is to catch bugs and feature issues before a software application goes live.
-  When manually testing, the tester validates the key features of a software application. 
-  Analysts execute test cases and develop summary error reports without specialized automation tools. 
+  *manual Testing*
 
-  How Manual Testing Works
-  Manual testing is very hands-on. It requires analysts and QA engineers to be highly involved in everything from test 
-  case creation to actual test execution. 
+    Manual testing is the process in which QA analysts execute tests one-by-one in an individual manner. 
+    The purpose of manual testing is to catch bugs and feature issues before a software application goes live.
+    When manually testing, the tester validates the key features of a software application. 
+    Analysts execute test cases and develop summary error reports without specialized automation tools. 
+
+    How Manual Testing Works
+    Manual testing is very hands-on. It requires analysts and QA engineers to be highly involved in everything from test 
+    case creation to actual test execution. 
   
-*Automated Testing*
+  *Automated Testing*
 
-  Automation testing is the process in which testers utilize tools and scripts to automate testing efforts.
-  Automation testing helps testers execute more test cases and improve test coverage. 
-  When comparing manual vs. automation testing, manual takes longer. Automated testing is more efficient.
+    Automation testing is the process in which testers utilize tools and scripts to automate testing efforts.
+    Automation testing helps testers execute more test cases and improve test coverage. 
+    When comparing manual vs. automation testing, manual takes longer. Automated testing is more efficient.
   
-  How Automated Testing Works
-  Automation testing involves testers writing test scripts that automate test execution. (A test script is a set of instructions 
-  to be performed on target platforms to validate a feature or expected outcome.)
+    How Automated Testing Works
+    Automation testing involves testers writing test scripts that automate test execution. (A test script is a set of instructions 
+    to be performed on target platforms to validate a feature or expected outcome.)
   
 **2. Top Android App Automation Testing Tools & Frameworks ?**
 
-  1. Appium
-  2. Selendroid
-  3. Calabash
-  4. Espresso
-  5. Detox
-  6. UI Automator
+
+    1. Appium
+    2. Selendroid
+    3. Calabash
+    4. Espresso
+    5. Detox
+    6. UI Automator
 
 
 **3. Types of Software Testing ?**
 
- *1. Unit Testing*
+
+  *1. Unit Testing*
  
-  Unit testing is a method of testing individual units or components of a software application. It is typically done by developers 
-  and is used to ensure that the individual units of the software are working as intended. Unit tests are usually automated and are 
-  designed to test specific parts of the code, such as a particular function or method. Unit testing is done at the lowest level of 
-  the software development process, where individual units of code are tested in isolation.
+    Unit testing is a method of testing individual units or components of a software application. It is typically done by developers 
+    and is used to ensure that the individual units of the software are working as intended. Unit tests are usually automated and are 
+    designed to test specific parts of the code, such as a particular function or method. Unit testing is done at the lowest level of 
+    the software development process, where individual units of code are tested in isolation.
   
   *2. Integration Testing
   
-  Integration testing is a method of testing how different units or components of a software application interact with each other. 
-  It is used to identify and resolve any issues that may arise when different units of the software are combined. Integration testing 
-  is typically done after unit testing and before functional testing, and is used to verify that the different units of the 
-  software work together as intended.
+    Integration testing is a method of testing how different units or components of a software application interact with each other. 
+    It is used to identify and resolve any issues that may arise when different units of the software are combined. Integration testing 
+    is typically done after unit testing and before functional testing, and is used to verify that the different units of the 
+    software work together as intended.
   
   *3. Regression Testing
   
-  Regression testing is a method of testing that is used to ensure that changes made to the software do not introduce new bugs or 
-  cause existing functionality to break. It is typically done after changes have been made to the code, such as bug fixes or new 
-  features, and is used to verify that the software still works as intended.
+    Regression testing is a method of testing that is used to ensure that changes made to the software do not introduce new bugs or 
+    cause existing functionality to break. It is typically done after changes have been made to the code, such as bug fixes or new 
+    features, and is used to verify that the software still works as intended.
   
   *4. Smoke Testing
   
-  This test is done to make sure that the software under testing is ready or stable for further testing 
-  It is called a smoke test as the testing of an initial pass is done to check if it did not catch the fire or smoke in the initial switch on. 
+    This test is done to make sure that the software under testing is ready or stable for further testing 
+    It is called a smoke test as the testing of an initial pass is done to check if it did not catch the fire or smoke in the initial switch on. 
   
   *5. Alpha Testing
-  This is a type of validation testing. It is a type of acceptance testing which is done before the product is released to customers. 
-  It is typically done by QA people. 
+  
+    This is a type of validation testing. It is a type of acceptance testing which is done before the product is released to customers. 
+    It is typically done by QA people. 
   
   *6. Beta Testing
-  The beta test is conducted at one or more customer sites by the end-user of the software. This version is released for a limited 
-  number of users for testing in a real-time environment 
+  
+    The beta test is conducted at one or more customer sites by the end-user of the software. This version is released for a limited 
+    number of users for testing in a real-time environment 
   
   *7. System Testing
   
-  This software is tested such that it works fine for the different operating systems. It is covered under the black box testing technique. 
-  In this, we just focus on the required input and output without focusing on internal working. 
-  In this, we have security testing, recovery testing, stress testing, and performance testing 
+    This software is tested such that it works fine for the different operating systems. It is covered under the black box testing technique. 
+    In this, we just focus on the required input and output without focusing on internal working. 
+    In this, we have security testing, recovery testing, stress testing, and performance testing 
   
   *8. Stress Testing
   
-  In this, we give unfavorable conditions to the system and check how they perform in those conditions. 
+    In this, we give unfavorable conditions to the system and check how they perform in those conditions. 
   
   *9. Performance Testing
   
-  It is designed to test the run-time performance of software within the context of an integrated system. 
-  It is used to test the speed and effectiveness of the program. It is also called load testing. 
-  In it we check, what is the performance of the system in the given load.
+    It is designed to test the run-time performance of software within the context of an integrated system. 
+    It is used to test the speed and effectiveness of the program. It is also called load testing. 
+    In it we check, what is the performance of the system in the given load.
+    
+  *10. Sanity Testing
+  
+    It is used to ensure that all the bugs have been fixed and no added issues come into existence due to these changes. 
+    Sanity testing is unscripted, which means we cannot documented it. It checks the correctness of the newly added features and components.
   
 
