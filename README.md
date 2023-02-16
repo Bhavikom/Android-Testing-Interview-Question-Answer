@@ -188,4 +188,14 @@
     It is used to ensure that all the bugs have been fixed and no added issues come into existence due to these changes. 
     Sanity testing is unscripted, which means we cannot documented it. It checks the correctness of the newly added features and components.
   
+  
+**4. Differences between Black Box Testing vs White Box Testing ?**
+
+    Software Testing can be majorly classified into two categories: 
+ 
+    Black Box Testing is a software testing method in which the internal structure/design/implementation of the item being 
+    tested is not known to the tester. Only the external design and structure are tested.
+ 
+    White Box Testing is a software testing method in which the internal structure/design/implementation of the item being 
+    tested is known to the tester. Implementation and impact of the code are tested.
 
