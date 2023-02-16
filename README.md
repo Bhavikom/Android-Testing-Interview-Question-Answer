@@ -23,4 +23,11 @@
   Automation testing involves testers writing test scripts that automate test execution. (A test script is a set of instructions 
   to be performed on target platforms to validate a feature or expected outcome.)
   
-**2. 
+**2. Top Android App Automation Testing Tools & Frameworks ?**
+
+  1. Appium
+  2. Selendroid
+  3. Calabash
+  4. Espresso
+  5. Detox
+  6. UI Automator
